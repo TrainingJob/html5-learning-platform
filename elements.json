@@ -1,0 +1,1378 @@
+[
+  {
+    "tagName": "a",
+    "description": "超連結",
+    "example": "<a href=\"courses.html\">課程介紹</a>",
+    "categories": [
+      "超連結",
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "abbr",
+    "description": "HTML abbr 元素（請查閱標準定義）",
+    "example": "<abbr>示範內容</abbr>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/abbr",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "address",
+    "description": "HTML address 元素（請查閱標準定義）",
+    "example": "<address>示範內容</address>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/address",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "area",
+    "description": "HTML area 元素（請查閱標準定義）",
+    "example": "<area>",
+    "categories": [
+      "超連結",
+      "圖片與圖像"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/area",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "article",
+    "description": "可獨立理解的內容",
+    "example": "<article><h2>文章</h2><p>內容</p></article>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/article",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "aside",
+    "description": "與主文相關的補充資訊",
+    "example": "<aside>延伸閱讀</aside>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/aside",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "audio",
+    "description": "播放音訊",
+    "example": "<audio controls src=\"intro.mp3\"></audio>",
+    "categories": [
+      "多媒體",
+      "互動元件",
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/audio",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "b",
+    "description": "HTML b 元素（請查閱標準定義）",
+    "example": "<b>示範內容</b>",
+    "categories": [
+      "標題與文字",
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/b",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "base",
+    "description": "相對網址基準",
+    "example": "<base href=\"https://example.com/\">",
+    "categories": [
+      "Metadata"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/base",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "bdi",
+    "description": "HTML bdi 元素（請查閱標準定義）",
+    "example": "<bdi>示範內容</bdi>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdi",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "bdo",
+    "description": "HTML bdo 元素（請查閱標準定義）",
+    "example": "<bdo>示範內容</bdo>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/bdo",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "blockquote",
+    "description": "HTML blockquote 元素（請查閱標準定義）",
+    "example": "<blockquote>示範內容</blockquote>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "body",
+    "description": "網頁內容主體",
+    "example": "<body><h1>你好</h1></body>",
+    "categories": [
+      "文件結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "br",
+    "description": "HTML br 元素（請查閱標準定義）",
+    "example": "<br>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "button",
+    "description": "按鈕控制項",
+    "example": "<button type=\"button\">按一下</button>",
+    "categories": [
+      "表單",
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "canvas",
+    "description": "HTML canvas 元素（請查閱標準定義）",
+    "example": "<canvas>示範內容</canvas>",
+    "categories": [
+      "圖片與圖像",
+      "程式與範本"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/canvas",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "caption",
+    "description": "表格名稱",
+    "example": "<table><caption>課程表</caption><tr><td>HTML</td></tr></table>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/caption",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "cite",
+    "description": "HTML cite 元素（請查閱標準定義）",
+    "example": "<cite>示範內容</cite>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/cite",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "code",
+    "description": "HTML code 元素（請查閱標準定義）",
+    "example": "<code>示範內容</code>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/code",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "col",
+    "description": "HTML col 元素（請查閱標準定義）",
+    "example": "<col>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/col",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "colgroup",
+    "description": "HTML colgroup 元素（請查閱標準定義）",
+    "example": "<colgroup>示範內容</colgroup>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/colgroup",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "data",
+    "description": "HTML data 元素（請查閱標準定義）",
+    "example": "<data>示範內容</data>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/data",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "datalist",
+    "description": "HTML datalist 元素（請查閱標準定義）",
+    "example": "<datalist>示範內容</datalist>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/datalist",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "dd",
+    "description": "描述清單中的解釋",
+    "example": "<dl><dt>名稱</dt><dd>說明</dd></dl>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dd",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "del",
+    "description": "HTML del 元素（請查閱標準定義）",
+    "example": "<del>示範內容</del>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/del",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "details",
+    "description": "可展開與收合的資訊",
+    "example": "<details><summary>問題</summary><p>解答</p></details>",
+    "categories": [
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "dfn",
+    "description": "HTML dfn 元素（請查閱標準定義）",
+    "example": "<dfn>示範內容</dfn>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dfn",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "dialog",
+    "description": "對話框容器",
+    "example": "<dialog open>說明內容</dialog>",
+    "categories": [
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "div",
+    "description": "無特定語意的區塊容器",
+    "example": "<div>區塊</div>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/div",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "dl",
+    "description": "名稱與描述的關聯清單",
+    "example": "<dl><dt>HTML</dt><dd>網頁標記語言</dd></dl>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dl",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "dt",
+    "description": "描述清單中的名稱",
+    "example": "<dl><dt>名稱</dt><dd>說明</dd></dl>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dt",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "em",
+    "description": "語氣強調",
+    "example": "<em>特別注意</em>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "embed",
+    "description": "HTML embed 元素（請查閱標準定義）",
+    "example": "<embed>",
+    "categories": [
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "fieldset",
+    "description": "HTML fieldset 元素（請查閱標準定義）",
+    "example": "<fieldset>示範內容</fieldset>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "figcaption",
+    "description": "figure 的說明文字",
+    "example": "<figure><img src=\"x.jpg\" alt=\"作品\"><figcaption>作品名稱</figcaption></figure>",
+    "categories": [
+      "圖片與圖像"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figcaption",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "figure",
+    "description": "自成單元的圖文內容",
+    "example": "<figure><img src=\"demo.jpg\" alt=\"示例\"><figcaption>作品</figcaption></figure>",
+    "categories": [
+      "圖片與圖像"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/figure",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "footer",
+    "description": "頁面或區段的頁尾",
+    "example": "<footer><p>聯絡資訊</p></footer>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/footer",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "form",
+    "description": "表單內容集合",
+    "example": "<form><label>姓名 <input name=\"name\"></label></form>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h1",
+    "description": "第 1 級標題",
+    "example": "<h1>第 1 級標題</h1>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h1",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h2",
+    "description": "第 2 級標題",
+    "example": "<h2>第 2 級標題</h2>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h2",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h3",
+    "description": "第 3 級標題",
+    "example": "<h3>第 3 級標題</h3>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h3",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h4",
+    "description": "第 4 級標題",
+    "example": "<h4>第 4 級標題</h4>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h4",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h5",
+    "description": "第 5 級標題",
+    "example": "<h5>第 5 級標題</h5>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h5",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "h6",
+    "description": "第 6 級標題",
+    "example": "<h6>第 6 級標題</h6>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/h6",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "head",
+    "description": "文件中繼資料容器",
+    "example": "<head><title>網站</title></head>",
+    "categories": [
+      "文件結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/head",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "header",
+    "description": "頁面或區段的前置資訊",
+    "example": "<header><h1>網站名稱</h1></header>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "hgroup",
+    "description": "HTML hgroup 元素（請查閱標準定義）",
+    "example": "<hgroup>示範內容</hgroup>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hgroup",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "hr",
+    "description": "HTML hr 元素（請查閱標準定義）",
+    "example": "<hr>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "html",
+    "description": "HTML 文件根元素",
+    "example": "<html lang=\"zh-Hant\">…</html>",
+    "categories": [
+      "文件結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "i",
+    "description": "HTML i 元素（請查閱標準定義）",
+    "example": "<i>示範內容</i>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/i",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "iframe",
+    "description": "內嵌其他瀏覽上下文",
+    "example": "<iframe src=\"about:blank\" title=\"空白示範\"></iframe>",
+    "categories": [
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "img",
+    "description": "影像",
+    "example": "<img src=\"photo.jpg\" alt=\"教室照片\">",
+    "categories": [
+      "圖片與圖像",
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "input",
+    "description": "單行等輸入控制項",
+    "example": "<input type=\"email\" name=\"email\">",
+    "categories": [
+      "表單",
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "ins",
+    "description": "HTML ins 元素（請查閱標準定義）",
+    "example": "<ins>示範內容</ins>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ins",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "kbd",
+    "description": "HTML kbd 元素（請查閱標準定義）",
+    "example": "<kbd>示範內容</kbd>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/kbd",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "label",
+    "description": "輸入欄位名稱",
+    "example": "<label for=\"email\">信箱</label><input id=\"email\" type=\"email\">",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/label",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "legend",
+    "description": "HTML legend 元素（請查閱標準定義）",
+    "example": "<legend>示範內容</legend>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/legend",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "li",
+    "description": "清單項目",
+    "example": "<ul><li>選項</li></ul>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "link",
+    "description": "連結外部資源",
+    "example": "<link rel=\"stylesheet\" href=\"style.css\">",
+    "categories": [
+      "Metadata"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/link",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "main",
+    "description": "頁面主要內容",
+    "example": "<main><p>主要內容</p></main>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/main",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "map",
+    "description": "HTML map 元素（請查閱標準定義）",
+    "example": "<map>示範內容</map>",
+    "categories": [
+      "超連結",
+      "圖片與圖像"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/map",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "mark",
+    "description": "HTML mark 元素（請查閱標準定義）",
+    "example": "<mark>示範內容</mark>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/mark",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "menu",
+    "description": "HTML menu 元素（請查閱標準定義）",
+    "example": "<menu>示範內容</menu>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/menu",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "meta",
+    "description": "文件中繼資料",
+    "example": "<meta charset=\"UTF-8\">",
+    "categories": [
+      "Metadata"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "meter",
+    "description": "HTML meter 元素（請查閱標準定義）",
+    "example": "<meter>示範內容</meter>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meter",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "nav",
+    "description": "主要導覽區域",
+    "example": "<nav><a href=\"#courses\">課程</a></nav>",
+    "categories": [
+      "語意化結構",
+      "超連結"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "noscript",
+    "description": "HTML noscript 元素（請查閱標準定義）",
+    "example": "<noscript>示範內容</noscript>",
+    "categories": [
+      "Metadata",
+      "程式與範本"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/noscript",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "object",
+    "description": "HTML object 元素（請查閱標準定義）",
+    "example": "<object>示範內容</object>",
+    "categories": [
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "ol",
+    "description": "有序清單",
+    "example": "<ol><li>步驟一</li></ol>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "optgroup",
+    "description": "HTML optgroup 元素（請查閱標準定義）",
+    "example": "<optgroup>示範內容</optgroup>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/optgroup",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "option",
+    "description": "選單候選項目",
+    "example": "<select><option value=\"a\">選項 A</option></select>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/option",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "output",
+    "description": "HTML output 元素（請查閱標準定義）",
+    "example": "<output>示範內容</output>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/output",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "p",
+    "description": "段落文字",
+    "example": "<p>這是一段文字。</p>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/p",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "picture",
+    "description": "依條件選擇圖片來源",
+    "example": "<picture><source media=\"(min-width: 800px)\" srcset=\"wide.jpg\"><img src=\"small.jpg\" alt=\"示意圖\"></picture>",
+    "categories": [
+      "圖片與圖像",
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "pre",
+    "description": "HTML pre 元素（請查閱標準定義）",
+    "example": "<pre>示範內容</pre>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/pre",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "progress",
+    "description": "HTML progress 元素（請查閱標準定義）",
+    "example": "<progress>示範內容</progress>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/progress",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "q",
+    "description": "HTML q 元素（請查閱標準定義）",
+    "example": "<q>示範內容</q>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/q",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "rp",
+    "description": "HTML rp 元素（請查閱標準定義）",
+    "example": "<rp>示範內容</rp>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rp",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "rt",
+    "description": "HTML rt 元素（請查閱標準定義）",
+    "example": "<rt>示範內容</rt>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/rt",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "ruby",
+    "description": "HTML ruby 元素（請查閱標準定義）",
+    "example": "<ruby>示範內容</ruby>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ruby",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "s",
+    "description": "HTML s 元素（請查閱標準定義）",
+    "example": "<s>示範內容</s>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/s",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "samp",
+    "description": "HTML samp 元素（請查閱標準定義）",
+    "example": "<samp>示範內容</samp>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/samp",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "script",
+    "description": "嵌入或連結 JavaScript",
+    "example": "<script>console.log(\"Hello\");</script>",
+    "categories": [
+      "Metadata",
+      "程式與範本"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "search",
+    "description": "搜尋相關控制項區段",
+    "example": "<search><form><input aria-label=\"搜尋\"></form></search>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/search",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "section",
+    "description": "具主題的內容區段",
+    "example": "<section><h2>介紹</h2><p>內容</p></section>",
+    "categories": [
+      "語意化結構"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "select",
+    "description": "選擇清單控制項",
+    "example": "<select><option>HTML</option></select>",
+    "categories": [
+      "表單",
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/select",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "selectedcontent",
+    "description": "自訂 select 中鏡射所選選項內容",
+    "example": "<select><button><selectedcontent></selectedcontent></button><option>選項</option></select>",
+    "categories": [
+      "表單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/selectedcontent",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "slot",
+    "description": "Web Component 的插槽",
+    "example": "<slot name=\"title\">預設標題</slot>",
+    "categories": [
+      "程式與範本"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/slot",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "small",
+    "description": "HTML small 元素（請查閱標準定義）",
+    "example": "<small>示範內容</small>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/small",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "source",
+    "description": "媒體或圖片來源候選",
+    "example": "<video controls><source src=\"movie.mp4\" type=\"video/mp4\"></video>",
+    "categories": [
+      "圖片與圖像",
+      "多媒體"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/source",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "span",
+    "description": "無特定語意的行內容器",
+    "example": "<span>文字</span>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/span",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "strong",
+    "description": "強調重要性",
+    "example": "<strong>重要通知</strong>",
+    "categories": [
+      "標題與文字"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "style",
+    "description": "內嵌 CSS 樣式",
+    "example": "<style>p {color: teal;}</style>",
+    "categories": [
+      "Metadata"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/style",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "sub",
+    "description": "HTML sub 元素（請查閱標準定義）",
+    "example": "<sub>示範內容</sub>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sub",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "summary",
+    "description": "details 的摘要標題",
+    "example": "<details><summary>更多資訊</summary>內容</details>",
+    "categories": [
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "sup",
+    "description": "HTML sup 元素（請查閱標準定義）",
+    "example": "<sup>示範內容</sup>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/sup",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "table",
+    "description": "列與欄關係的資料表",
+    "example": "<table><tr><th>課程</th></tr><tr><td>HTML</td></tr></table>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "tbody",
+    "description": "HTML tbody 元素（請查閱標準定義）",
+    "example": "<tbody>示範內容</tbody>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tbody",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "td",
+    "description": "表格資料儲存格",
+    "example": "<table><tr><td>3 小時</td></tr></table>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/td",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "template",
+    "description": "不立即渲染的內容範本",
+    "example": "<template id=\"tpl\"><p>範本</p></template>",
+    "categories": [
+      "Metadata",
+      "程式與範本"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "textarea",
+    "description": "多行文字輸入",
+    "example": "<textarea rows=\"3\"></textarea>",
+    "categories": [
+      "表單",
+      "互動元件"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/textarea",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "tfoot",
+    "description": "HTML tfoot 元素（請查閱標準定義）",
+    "example": "<tfoot>示範內容</tfoot>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tfoot",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "th",
+    "description": "表格標題儲存格",
+    "example": "<table><tr><th scope=\"col\">時數</th></tr></table>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/th",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "thead",
+    "description": "HTML thead 元素（請查閱標準定義）",
+    "example": "<thead>示範內容</thead>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/thead",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "time",
+    "description": "HTML time 元素（請查閱標準定義）",
+    "example": "<time>示範內容</time>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "title",
+    "description": "瀏覽器分頁標題",
+    "example": "<title>我的網站</title>",
+    "categories": [
+      "Metadata"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/title",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "tr",
+    "description": "表格的一列",
+    "example": "<table><tr><td>資料</td></tr></table>",
+    "categories": [
+      "表格"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/tr",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "track",
+    "description": "影片字幕／文字軌",
+    "example": "<video controls src=\"demo.mp4\"><track kind=\"captions\" src=\"captions.vtt\" srclang=\"zh\" label=\"中文\"></video>",
+    "categories": [
+      "多媒體"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/track",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "u",
+    "description": "HTML u 元素（請查閱標準定義）",
+    "example": "<u>示範內容</u>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/u",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "ul",
+    "description": "無序清單",
+    "example": "<ul><li>項目一</li></ul>",
+    "categories": [
+      "清單"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "var",
+    "description": "HTML var 元素（請查閱標準定義）",
+    "example": "<var>示範內容</var>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/var",
+    "detailStatus": "待擴充專屬範例"
+  },
+  {
+    "tagName": "video",
+    "description": "播放影片",
+    "example": "<video controls src=\"demo.mp4\"></video>",
+    "categories": [
+      "多媒體",
+      "互動元件",
+      "嵌入內容"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video",
+    "detailStatus": "已編寫簡介"
+  },
+  {
+    "tagName": "wbr",
+    "description": "HTML wbr 元素（請查閱標準定義）",
+    "example": "<wbr>",
+    "categories": [
+      "其他文字語意"
+    ],
+    "status": "標準索引收錄",
+    "source": "https://html.spec.whatwg.org/multipage/indices.html",
+    "mdn": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/wbr",
+    "detailStatus": "待擴充專屬範例"
+  }
+]

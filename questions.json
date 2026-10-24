@@ -1,0 +1,739 @@
+{
+  "questions": [
+    {
+      "id": "Q001",
+      "category": "文件結構",
+      "level": "基礎",
+      "type": "單選",
+      "title": "HTML 文件的主要可見內容通常應放在哪個元素？",
+      "options": [
+        "<head>",
+        "<body>",
+        "<title>",
+        "<html lang>"
+      ],
+      "correct": 1,
+      "explanation": "<body> 包含文件呈現給使用者的內容；<head> 主要放中繼資料。",
+      "tags": [
+        "body",
+        "head"
+      ]
+    },
+    {
+      "id": "Q002",
+      "category": "文件結構",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "以下程式中，哪一項最適合放在 <head> 而不是 <body>？",
+      "options": [
+        "<h1>課程介紹</h1>",
+        "<p>歡迎報名</p>",
+        "<title>課程介紹</title>",
+        "<main>主內容</main>"
+      ],
+      "correct": 2,
+      "explanation": "<title> 是文件標題的中繼資料，應放在 <head> 內。",
+      "tags": [
+        "title",
+        "head",
+        "body"
+      ]
+    },
+    {
+      "id": "Q004",
+      "category": "Metadata",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素用來設定瀏覽器分頁顯示的文件標題？",
+      "options": [
+        "<meta>",
+        "<title>",
+        "<style>",
+        "<link>"
+      ],
+      "correct": 1,
+      "explanation": "<title> 定義文件標題；它與畫面中的 <h1> 不同。",
+      "tags": [
+        "title"
+      ]
+    },
+    {
+      "id": "Q005",
+      "category": "Metadata",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "下列哪一段是宣告 UTF-8 字元編碼的正確 HTML 寫法？",
+      "options": [
+        "<meta charset=\"UTF-8\">",
+        "<title charset=\"UTF-8\">網站</title>",
+        "<link charset=\"UTF-8\">",
+        "<body charset=\"UTF-8\">"
+      ],
+      "correct": 0,
+      "explanation": "<meta charset=\"UTF-8\"> 為 HTML 文件指定字元編碼。",
+      "tags": [
+        "meta"
+      ]
+    },
+    {
+      "id": "Q006",
+      "category": "Metadata",
+      "level": "應用",
+      "type": "是非",
+      "title": "設定 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> 就能自動完成所有響應式排版，完全不需要 CSS。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "viewport 控制視窗尺寸的行為；實際響應式排版仍常需 CSS。",
+      "tags": [
+        "meta"
+      ]
+    },
+    {
+      "id": "Q007",
+      "category": "語意化結構",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素用來表示頁面主要的導覽連結區？",
+      "options": [
+        "<nav>",
+        "<footer>",
+        "<aside>",
+        "<article>"
+      ],
+      "correct": 0,
+      "explanation": "<nav> 表示由導覽連結組成的區域。",
+      "tags": [
+        "nav"
+      ]
+    },
+    {
+      "id": "Q008",
+      "category": "語意化結構",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "一則可獨立閱讀的課程消息，通常適合用哪個元素包住？",
+      "options": [
+        "<article>",
+        "<meta>",
+        "<title>",
+        "<br>"
+      ],
+      "correct": 0,
+      "explanation": "<article> 適合能獨立成立的完整內容，例如文章或消息。",
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "Q009",
+      "category": "語意化結構",
+      "level": "應用",
+      "type": "是非",
+      "title": "同一份一般頁面若有多個區塊，可以不加判斷地把每個 <div> 全部替換成 <section>。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "<section> 應代表具主題的內容區段；純排版容器未必適用。",
+      "tags": [
+        "section"
+      ]
+    },
+    {
+      "id": "Q010",
+      "category": "標題與文字",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個標籤代表最高層級的章節標題？",
+      "options": [
+        "<h6>",
+        "<strong>",
+        "<h1>",
+        "<span>"
+      ],
+      "correct": 2,
+      "explanation": "<h1> 是標題階層中的最高等級；標題應依內容結構使用。",
+      "tags": [
+        "h1",
+        "h6"
+      ]
+    },
+    {
+      "id": "Q011",
+      "category": "標題與文字",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "哪一段 HTML 有不符合 <p> 內容模型的巢狀方式？",
+      "options": [
+        "<p>這是 <strong>重點</strong></p>",
+        "<p>這是 <em>強調</em></p>",
+        "<p><div>區塊</div></p>",
+        "<p>這是 <span>文字</span></p>"
+      ],
+      "correct": 2,
+      "explanation": "<p> 只能包含措辭內容（phrasing content），不能直接包含 <div>。",
+      "tags": [
+        "p",
+        "div"
+      ]
+    },
+    {
+      "id": "Q012",
+      "category": "標題與文字",
+      "level": "基礎",
+      "type": "是非",
+      "title": "<strong> 用於表示重要性或嚴重性等語意，不只是讓文字變粗。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "<strong> 具有重要性等語意；若只想改外觀，可使用 CSS。",
+      "tags": [
+        "strong"
+      ]
+    },
+    {
+      "id": "Q013",
+      "category": "清單",
+      "level": "基礎",
+      "type": "單選",
+      "title": "需要按照順序顯示「步驟 1、2、3」時，哪個元素較適合？",
+      "options": [
+        "<ul>",
+        "<ol>",
+        "<dl>",
+        "<table>"
+      ],
+      "correct": 1,
+      "explanation": "<ol> 是有序清單，項目通常以 <li> 表示。",
+      "tags": [
+        "ol",
+        "li"
+      ]
+    },
+    {
+      "id": "Q014",
+      "category": "清單",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "下列哪段能建立正確的無序清單？",
+      "options": [
+        "<ul><li>HTML</li><li>CSS</li></ul>",
+        "<ul><p>HTML</p></ul>",
+        "<li><ul>HTML</ul></li>",
+        "<dl><li>HTML</li></dl>"
+      ],
+      "correct": 0,
+      "explanation": "<ul> 的一般清單項目使用 <li>。",
+      "tags": [
+        "ul",
+        "li",
+        "dl"
+      ]
+    },
+    {
+      "id": "Q015",
+      "category": "清單",
+      "level": "基礎",
+      "type": "是非",
+      "title": "<dl> 可配合 <dt>、<dd> 呈現名詞與說明等名稱／值群組。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "<dl> 是描述清單，<dt> 表示名稱或術語，<dd> 表示描述／值。",
+      "tags": [
+        "dl",
+        "dt",
+        "dd"
+      ]
+    },
+    {
+      "id": "Q016",
+      "category": "超連結",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪一個元素可建立一般可點擊的網頁超連結？",
+      "options": [
+        "<a>",
+        "<nav>",
+        "<map>",
+        "<area>"
+      ],
+      "correct": 0,
+      "explanation": "<a> 搭配 href 可建立超連結。",
+      "tags": [
+        "a"
+      ]
+    },
+    {
+      "id": "Q017",
+      "category": "超連結",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "網頁有 <section id=\"courses\">，哪個連結可跳到該區段？",
+      "options": [
+        "<a href=\"courses\">課程</a>",
+        "<a href=\"#courses\">課程</a>",
+        "<a id=\"#courses\">課程</a>",
+        "<a src=\"#courses\">課程</a>"
+      ],
+      "correct": 1,
+      "explanation": "href=\"#courses\" 表示本文件中 id=\"courses\" 的片段目標。",
+      "tags": [
+        "a"
+      ]
+    },
+    {
+      "id": "Q018",
+      "category": "超連結",
+      "level": "應用",
+      "type": "是非",
+      "title": "若 href=\"courses.html\" 所指的檔案不存在，瀏覽器仍保證能顯示正確課程內容。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "相對路徑必須指向實際存在的資源；連結本身不會建立檔案。",
+      "tags": [
+        "a"
+      ]
+    },
+    {
+      "id": "Q019",
+      "category": "圖片與圖像",
+      "level": "基礎",
+      "type": "單選",
+      "title": "插入一般圖片時，最常使用哪個 HTML 元素？",
+      "options": [
+        "<img>",
+        "<figure>",
+        "<canvas>",
+        "<picture>"
+      ],
+      "correct": 0,
+      "explanation": "<img> 可將圖片嵌入文件。",
+      "tags": [
+        "img"
+      ]
+    },
+    {
+      "id": "Q020",
+      "category": "圖片與圖像",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "以下哪種用法能替有資訊意義的圖片提供替代文字？",
+      "options": [
+        "<img src=\"cad.jpg\" alt=\"CAD 零件等角圖\">",
+        "<img href=\"cad.jpg\">",
+        "<figure alt=\"CAD\">文字</figure>",
+        "<img src=\"cad.jpg\" title=\"\" alt>"
+      ],
+      "correct": 0,
+      "explanation": "<img> 的 alt 屬性提供適當的圖片文字替代資訊。",
+      "tags": [
+        "img"
+      ]
+    },
+    {
+      "id": "Q021",
+      "category": "圖片與圖像",
+      "level": "基礎",
+      "type": "是非",
+      "title": "<figcaption> 可為其所屬的 <figure> 提供標題或說明。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "<figcaption> 表示所屬 <figure> 的說明。",
+      "tags": [
+        "figure",
+        "figcaption"
+      ]
+    },
+    {
+      "id": "Q022",
+      "category": "多媒體",
+      "level": "基礎",
+      "type": "單選",
+      "title": "要在 HTML 中嵌入可播放的影片，通常使用哪個元素？",
+      "options": [
+        "<video>",
+        "<source>",
+        "<track>",
+        "<audio>"
+      ],
+      "correct": 0,
+      "explanation": "<video> 用於影片播放；<source> 可提供媒體來源。",
+      "tags": [
+        "video",
+        "source"
+      ]
+    },
+    {
+      "id": "Q023",
+      "category": "多媒體",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "哪種寫法會要求瀏覽器顯示影片內建播放控制介面？",
+      "options": [
+        "<video src=\"intro.mp4\" controls></video>",
+        "<video src=\"intro.mp4\" alt=\"播放\"></video>",
+        "<source src=\"intro.mp4\" controls>",
+        "<audio src=\"intro.mp4\" video>"
+      ],
+      "correct": 0,
+      "explanation": "在 <video> 上使用布林屬性 controls，瀏覽器可提供原生播放控制介面。",
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "id": "Q024",
+      "category": "多媒體",
+      "level": "應用",
+      "type": "是非",
+      "title": "只要加入 <source src=\"intro.mp4\">，即使實際檔案不存在，瀏覽器也保證能播放影片。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "來源檔案必須存在且其格式與編碼需受環境支援。",
+      "tags": [
+        "source",
+        "video"
+      ]
+    },
+    {
+      "id": "Q025",
+      "category": "表格",
+      "level": "基礎",
+      "type": "單選",
+      "title": "HTML 表格中哪個元素表示標題儲存格？",
+      "options": [
+        "<td>",
+        "<tr>",
+        "<th>",
+        "<tbody>"
+      ],
+      "correct": 2,
+      "explanation": "<th> 是表格的標題儲存格，<td> 則是資料儲存格。",
+      "tags": [
+        "th",
+        "td"
+      ]
+    },
+    {
+      "id": "Q026",
+      "category": "表格",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "以下哪段可建立有正確欄標題關係的簡單表格？",
+      "options": [
+        "<table><tr><th scope=\"col\">課程</th><th scope=\"col\">時數</th></tr><tr><td>HTML</td><td>3</td></tr></table>",
+        "<table><td>課程</td><tr>HTML</tr></table>",
+        "<tr><table><td>HTML</td></table></tr>",
+        "<table><li>課程</li></table>"
+      ],
+      "correct": 0,
+      "explanation": "<table> 可包含列 <tr>，欄標題使用 <th scope=\"col\">，資料放在 <td>。",
+      "tags": [
+        "table",
+        "tr",
+        "th",
+        "td"
+      ]
+    },
+    {
+      "id": "Q027",
+      "category": "表格",
+      "level": "基礎",
+      "type": "是非",
+      "title": "HTML <table> 的主要用途是表格資料，並非建議拿來製作整個網站的視覺排版。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "表格用於具列欄關係的資料；版面配置宜使用 CSS。",
+      "tags": [
+        "table"
+      ]
+    },
+    {
+      "id": "Q028",
+      "category": "表單",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素用來為表單控制項提供可關聯的文字標籤？",
+      "options": [
+        "<label>",
+        "<legend>",
+        "<output>",
+        "<option>"
+      ],
+      "correct": 0,
+      "explanation": "<label for=\"id\"> 可與相符 id 的標籤化控制項關聯。",
+      "tags": [
+        "label"
+      ]
+    },
+    {
+      "id": "Q029",
+      "category": "表單",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "哪段可把姓名標籤正確連結至必填輸入框？",
+      "options": [
+        "<label for=\"name\">姓名</label><input id=\"name\" name=\"name\" required>",
+        "<label id=\"name\">姓名</label><input for=\"name\">",
+        "<label for=\"student\">姓名</label><input id=\"name\">",
+        "<input name=\"name\"><label required>姓名</label>"
+      ],
+      "correct": 0,
+      "explanation": "label 的 for 必須對應目標控制項的 id；required 表示原生必填限制。",
+      "tags": [
+        "label",
+        "input"
+      ]
+    },
+    {
+      "id": "Q030",
+      "category": "表單",
+      "level": "應用",
+      "type": "是非",
+      "title": "<input type=\"email\" required> 的瀏覽器檢查可完全取代伺服器端驗證。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "瀏覽器端檢查可被繞過，後端仍須進行資料驗證。",
+      "tags": [
+        "input",
+        "form"
+      ]
+    },
+    {
+      "id": "Q031",
+      "category": "互動元件",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪組元素適合實作原生可展開／收合的資訊區？",
+      "options": [
+        "<details> 與 <summary>",
+        "<section> 與 <h2>",
+        "<meta> 與 <title>",
+        "<table> 與 <tr>"
+      ],
+      "correct": 0,
+      "explanation": "<details> 可建立詳細資訊揭露元件，其標題可用 <summary>。",
+      "tags": [
+        "details",
+        "summary"
+      ]
+    },
+    {
+      "id": "Q032",
+      "category": "互動元件",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "下列哪段屬於正確的原生展開式 FAQ？",
+      "options": [
+        "<details><summary>如何報名？</summary><p>請查看報名頁。</p></details>",
+        "<summary><details>如何報名？</details></summary>",
+        "<details><meta>FAQ</meta></details>",
+        "<dialog><title>FAQ</title></dialog>"
+      ],
+      "correct": 0,
+      "explanation": "<summary> 置於 <details> 內作為標題，後續可放置揭露內容。",
+      "tags": [
+        "details",
+        "summary"
+      ]
+    },
+    {
+      "id": "Q033",
+      "category": "互動元件",
+      "level": "基礎",
+      "type": "是非",
+      "title": "<button> 可以指定 type=\"button\"，以避免在表單中預設觸發提交。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "在表單中一般按鈕應明確指定 type=\"button\"，避免預設提交。",
+      "tags": [
+        "button"
+      ]
+    },
+    {
+      "id": "Q034",
+      "category": "嵌入內容",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素常用來在頁面中嵌入另一份網頁？",
+      "options": [
+        "<iframe>",
+        "<figure>",
+        "<label>",
+        "<thead>"
+      ],
+      "correct": 0,
+      "explanation": "<iframe> 可嵌入另一個瀏覽上下文／頁面。",
+      "tags": [
+        "iframe"
+      ]
+    },
+    {
+      "id": "Q035",
+      "category": "嵌入內容",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "哪段為 iframe 設定了協助辨識內容的標題？",
+      "options": [
+        "<iframe src=\"demo.html\" title=\"示範頁面\"></iframe>",
+        "<iframe href=\"demo.html\" alt=\"示範頁面\"></iframe>",
+        "<iframe src=\"demo.html\"><title>示範頁面</title></iframe>",
+        "<iframe name=\"\" href=\"demo.html\"></iframe>"
+      ],
+      "correct": 0,
+      "explanation": "iframe 可使用 title 提供嵌入內容的可辨識名稱；src 指定來源。",
+      "tags": [
+        "iframe"
+      ]
+    },
+    {
+      "id": "Q036",
+      "category": "嵌入內容",
+      "level": "應用",
+      "type": "是非",
+      "title": "任何網站都一定允許其他網站透過 <iframe> 嵌入，沒有安全限制。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 1,
+      "explanation": "網站可透過安全政策限制是否允許被嵌入；不能保證所有網站都可嵌入。",
+      "tags": [
+        "iframe"
+      ]
+    },
+    {
+      "id": "Q037",
+      "category": "程式與範本",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素一般用於在 HTML 中加入 JavaScript 程式或引用腳本？",
+      "options": [
+        "<script>",
+        "<template>",
+        "<slot>",
+        "<noscript>"
+      ],
+      "correct": 0,
+      "explanation": "<script> 用來包含或引用腳本及部分資料區塊。",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "id": "Q038",
+      "category": "程式與範本",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "想放置暫時不直接呈現、供後續複製使用的 HTML 片段，應優先考慮哪段？",
+      "options": [
+        "<template><li>範例課程</li></template>",
+        "<script><li>範例課程</li></script>",
+        "<title><li>範例課程</li></title>",
+        "<meta><li>範例課程</li></meta>"
+      ],
+      "correct": 0,
+      "explanation": "<template> 的內容可作為稍後以程式使用的模板，不會像一般 DOM 內容立即渲染。",
+      "tags": [
+        "template"
+      ]
+    },
+    {
+      "id": "Q039",
+      "category": "程式與範本",
+      "level": "基礎",
+      "type": "是非",
+      "title": "<noscript> 可提供腳本停用或不受支援時的替代內容，但其具體解析行為仍依放置位置而不同。",
+      "options": [
+        "正確",
+        "錯誤"
+      ],
+      "correct": 0,
+      "explanation": "<noscript> 用於腳本不可用時的替代內容，且在 head/body 的限制不同。",
+      "tags": [
+        "noscript"
+      ]
+    },
+    {
+      "id": "Q040",
+      "category": "其他文字語意",
+      "level": "基礎",
+      "type": "單選",
+      "title": "哪個元素常用來標示一段行內程式碼？",
+      "options": [
+        "<code>",
+        "<blockquote>",
+        "<time>",
+        "<mark>"
+      ],
+      "correct": 0,
+      "explanation": "<code> 表示程式碼片段。",
+      "tags": [
+        "code"
+      ]
+    },
+    {
+      "id": "Q041",
+      "category": "其他文字語意",
+      "level": "應用",
+      "type": "程式判斷",
+      "title": "哪一段正確使用 <time> 表示機器可讀的日期？",
+      "options": [
+        "<time datetime=\"2026-10-24\">2026 年 10 月 24 日</time>",
+        "<time src=\"2026-10-24\">今日</time>",
+        "<time href=\"2026-10-24\">今日</time>",
+        "<time charset=\"2026-10-24\">今日</time>"
+      ],
+      "correct": 0,
+      "explanation": "<time datetime=\"...\"> 可表示機器可讀的日期或時間。",
+      "tags": [
+        "time"
+      ]
+    }
+  ],
+  "categories": [
+    "文件結構",
+    "Metadata",
+    "語意化結構",
+    "標題與文字",
+    "清單",
+    "超連結",
+    "圖片與圖像",
+    "多媒體",
+    "表格",
+    "表單",
+    "互動元件",
+    "嵌入內容",
+    "程式與範本",
+    "其他文字語意"
+  ],
+  "datasetCount": 113,
+  "source": "WHATWG HTML Living Standard / 已有 elements.json"
+}

@@ -1,0 +1,259 @@
+{
+  "sourceDate": "2026-10-22",
+  "source": "https://html.spec.whatwg.org/multipage/indices.html",
+  "uniqueTotal": 113,
+  "categoryCounts": [
+    [
+      "文件結構",
+      3
+    ],
+    [
+      "Metadata",
+      8
+    ],
+    [
+      "語意化結構",
+      10
+    ],
+    [
+      "標題與文字",
+      16
+    ],
+    [
+      "清單",
+      7
+    ],
+    [
+      "超連結",
+      4
+    ],
+    [
+      "圖片與圖像",
+      8
+    ],
+    [
+      "多媒體",
+      4
+    ],
+    [
+      "表格",
+      10
+    ],
+    [
+      "表單",
+      15
+    ],
+    [
+      "互動元件",
+      10
+    ],
+    [
+      "嵌入內容",
+      7
+    ],
+    [
+      "程式與範本",
+      5
+    ],
+    [
+      "其他文字語意",
+      26
+    ]
+  ],
+  "categoryMembershipSum": 133,
+  "multiCategoryUniqueElements": 18,
+  "extraMemberships": 20,
+  "multiCategoryItems": [
+    {
+      "tagName": "a",
+      "categories": [
+        "超連結",
+        "互動元件"
+      ]
+    },
+    {
+      "tagName": "area",
+      "categories": [
+        "超連結",
+        "圖片與圖像"
+      ]
+    },
+    {
+      "tagName": "audio",
+      "categories": [
+        "多媒體",
+        "互動元件",
+        "嵌入內容"
+      ]
+    },
+    {
+      "tagName": "b",
+      "categories": [
+        "標題與文字",
+        "其他文字語意"
+      ]
+    },
+    {
+      "tagName": "button",
+      "categories": [
+        "表單",
+        "互動元件"
+      ]
+    },
+    {
+      "tagName": "canvas",
+      "categories": [
+        "圖片與圖像",
+        "程式與範本"
+      ]
+    },
+    {
+      "tagName": "img",
+      "categories": [
+        "圖片與圖像",
+        "嵌入內容"
+      ]
+    },
+    {
+      "tagName": "input",
+      "categories": [
+        "表單",
+        "互動元件"
+      ]
+    },
+    {
+      "tagName": "map",
+      "categories": [
+        "超連結",
+        "圖片與圖像"
+      ]
+    },
+    {
+      "tagName": "nav",
+      "categories": [
+        "語意化結構",
+        "超連結"
+      ]
+    },
+    {
+      "tagName": "noscript",
+      "categories": [
+        "Metadata",
+        "程式與範本"
+      ]
+    },
+    {
+      "tagName": "picture",
+      "categories": [
+        "圖片與圖像",
+        "嵌入內容"
+      ]
+    },
+    {
+      "tagName": "script",
+      "categories": [
+        "Metadata",
+        "程式與範本"
+      ]
+    },
+    {
+      "tagName": "select",
+      "categories": [
+        "表單",
+        "互動元件"
+      ]
+    },
+    {
+      "tagName": "source",
+      "categories": [
+        "圖片與圖像",
+        "多媒體"
+      ]
+    },
+    {
+      "tagName": "template",
+      "categories": [
+        "Metadata",
+        "程式與範本"
+      ]
+    },
+    {
+      "tagName": "textarea",
+      "categories": [
+        "表單",
+        "互動元件"
+      ]
+    },
+    {
+      "tagName": "video",
+      "categories": [
+        "多媒體",
+        "互動元件",
+        "嵌入內容"
+      ]
+    }
+  ],
+  "notConfirmedAsStandard": [],
+  "detailsPending": [
+    "abbr",
+    "address",
+    "area",
+    "b",
+    "bdi",
+    "bdo",
+    "blockquote",
+    "br",
+    "canvas",
+    "cite",
+    "code",
+    "col",
+    "colgroup",
+    "data",
+    "datalist",
+    "del",
+    "dfn",
+    "embed",
+    "fieldset",
+    "hgroup",
+    "hr",
+    "i",
+    "ins",
+    "kbd",
+    "legend",
+    "map",
+    "mark",
+    "menu",
+    "meter",
+    "noscript",
+    "object",
+    "optgroup",
+    "output",
+    "pre",
+    "progress",
+    "q",
+    "rp",
+    "rt",
+    "ruby",
+    "s",
+    "samp",
+    "small",
+    "sub",
+    "sup",
+    "tbody",
+    "tfoot",
+    "thead",
+    "time",
+    "u",
+    "var",
+    "wbr"
+  ],
+  "exclusions": [
+    "DOCTYPE",
+    "SVG svg",
+    "MathML math",
+    "autonomous custom elements",
+    "HTML attributes",
+    "input types",
+    "obsolete elements"
+  ]
+}
